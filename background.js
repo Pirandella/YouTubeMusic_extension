@@ -1,3 +1,3 @@
 chrome.runtime.onInstalled.addListener(function() {
-        chrome.storage.sync.set({albumArtLink: "./images/get_started128.png"});
+        chrome.storage.sync.set({albumArtLink: "./images/placeholder.png"});
 });
